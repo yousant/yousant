@@ -1,11 +1,11 @@
 
 
 <h1 align="center">Hi 👋, I'm Adarsh Kumar</h1>
-<h3 align="center">A passionate learner of FrontEnd Development</h3>
+<h3 align="center">A passionate Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yousant&label=Profile%20views&color=0e75b6&style=flat" alt="yousant" /> </p>
 
-- 🌱 I’m currently learning **FrontEnd Development**
+- 🌱 **Member of Technical Staff** at Onix
 
 - 👨‍💻 All of my projects are available at [https://yousant.github.io/portfolioadarsh/](https://yousant.github.io/portfolioadarsh/)
 
